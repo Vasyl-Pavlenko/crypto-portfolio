@@ -9,7 +9,7 @@ Crypto Portfolio is a web application that allows you to track and manage your c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/crypto-portfolio.git
+   git clone https://github.com/vasyl-pavlenko/crypto-portfolio.git
    cd crypto-portfolio
    npm install
    npm run dev
